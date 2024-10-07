@@ -14,9 +14,6 @@ The favorites tab allows you to add your favorite followers for quick access. Yo
   <img src="https://user-images.githubusercontent.com/52054174/226890404-42adf482-ad8e-4852-a339-8af38b9cedab.png" width="376" height="900">
 </p>
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/52054174/226893575-43de4ff2-e772-4f21-810d-9d863827c8f0.gif" width="460" height="1100"/>
-</p>
 
 ## Features
 * Search for any GitHub follower by username  
